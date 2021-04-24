@@ -1,0 +1,27 @@
+#apps{
+ width:100%;
+    height:800px;
+    background-color: chocolate;
+    
+}
+
+.line{
+    height:6px;
+    width:100px;
+    margin:8px auto;
+    background-color: black;
+}
+
+#games{
+    width:100%;
+    height:800px;
+    background-color:dimgrey;
+     
+}
+img{
+    transition:transform .2s;
+    
+}
+img:hover{
+   transform: scale(0.9); 
+}
